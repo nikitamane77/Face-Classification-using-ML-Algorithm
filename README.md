@@ -29,3 +29,5 @@ Logistic Regression
 Random Forest
 Wavelet transform
 Facial feature extraction
+
+
