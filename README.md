@@ -1,4 +1,7 @@
 Face-Classification-using-ML-Algorithm
+[NikitaMane_10575451_ImageClassificationusingML.pdf](https://github.com/nikitamane77/Face-Classification-using-ML-Algorithm/files/8770710/NikitaMane_10575451_ImageClassificationusingML.pdf)
+
+
 Comparative approach of Machine learning models to find out best model. Analyzed and retrieved data from web URL using power BI. Thereafter cleaned, modelled, and visualized that data with Power BI.
 
 Objective
